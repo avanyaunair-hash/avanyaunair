@@ -54,15 +54,9 @@ Implemented networking concepts including:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=avanyaunair-hash&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=avanyaunair-hash&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avanyaunair-hash&layout=compact&theme=tokyonight)
-
----
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=avanyaunair-hash&theme=tokyo-night)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=avanyaunair-hash&theme=tokyonight" />
+</p>
 
 ---
 
