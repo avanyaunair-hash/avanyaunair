@@ -2,7 +2,7 @@
 <h3 align="center">Cyber Security Enthusiast | IT Support | Network Support | BCA Graduate</h3>
 
 <p align="center">
-  <a href="https://github.com/avanyaunair">
+  <a href="https://github.com/avanyaunair-hash">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;IT+Support+%7C+Network+Support;Python+%7C+SQL+%7C+Flutter;Aspiring+SOC+Analyst" />
   </a>
 </p>
@@ -54,20 +54,20 @@ Implemented networking concepts including:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=avanyaunair&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=avanyaunair-hash&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=avanyaunair&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=avanyaunair-hash&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avanyaunair&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avanyaunair-hash&layout=compact&theme=tokyonight)
 
 ---
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=avanyaunair&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=avanyaunair-hash&theme=tokyo-night)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avanyaunair&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=avanyaunair-hash&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
